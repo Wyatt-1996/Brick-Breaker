@@ -1,3 +1,3 @@
 # Brick-Breaker
 
-![brick breaker gif](https://media.giphy.com/media/lvVCCgeDVzICKcvFws/giphy.gif)
+![brick breaker gif](https://media.giphy.com/media/lplvyCUYe8DWrHRziG/giphy.gif)
